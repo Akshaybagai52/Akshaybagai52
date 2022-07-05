@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akshaybagai52
 - 👀 I’m interested in frontend development
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning ReactJs
 - 💞️ I’m looking to collaborate on front end design
 - 📫 How to reach me akshaybagai52@gmail.com
 
