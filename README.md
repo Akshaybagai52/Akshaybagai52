@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Akshaybagai52
-- 👀 I’m Web Developer
-- 🌱 I’m currently learning Backend
-- 💞️ I’m looking to collaborate on front end design
-- 📫 How to reach me akshaybagai52@gmail.com
+- 👋 Hi, I’m @Akshaybagai52.
+- 👀 I’m Frontend Developer.
+- 🌱 I’m currently working as Reactjs Developer at BaselineIt Development.
+- 💞️ I’m looking to fix issues and giving code reviews.
+- 📫 How to reach me akshaybagai52@gmail.com.
 
 <!---
 Akshaybagai52/Akshaybagai52 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
