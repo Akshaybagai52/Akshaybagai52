@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshay Bagai</h1>
-<h3 align="center">I am a Professional Frontend Developer 🧑‍💻, a Web , Prompt Engineering  and all-sports-fan ⛹️‍♂️.</h3>
+<h3 align="center">I am a Professional Frontend Developer 🧑‍💻, a Web , Prompt Engineer and all-sports-fan ⛹️‍♂️.</h3>
 <div style={{display: "flex" , alignItems: "center", justifyContent: "center", width: "100%"}}>
   <img align="center" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </div>
@@ -13,15 +13,15 @@
 
 - 👯 I’m looking to collaborate on **Freelance Projects**
 
-- 💬 Ask me about **Html, Css , Javascript, React, Workout-routines/diet plans, Motivations**
+- 💬 Ask me about **Html, Css , Javascript, React, Prompt Engineering, Nodejs, Express, Motivations**
 
 - 📔 Contributing to Open source as much as I can. 
 
 - 📫 How to reach me **akshaybagai52@gmail.com**
 
-- 🔗 Connect with me on Linkedin :  **Akshaybagai52(https://www.linkedin.com/in/akshay-bagai52/)**
+- 🔗 Connect with me on Linkedin :  **https://www.linkedin.com/in/akshay-bagai52/**
 
-- 🦜 Have an Idea regarding project, Let's talk on : **https://twitter.com/akshaybagai**
+- 🦜 Have an Idea regarding project, Let's talk on : **akshaybagai.netlify.app**
 
 - 🚀 All my contributions on Github are genuine. 🫡
 
