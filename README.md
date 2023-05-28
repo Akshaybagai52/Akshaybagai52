@@ -21,7 +21,7 @@
 
 - 🔗 Connect with me on Linkedin :  **https://www.linkedin.com/in/akshay-bagai52/**
 
-- 🦜 Have an Idea regarding project, Let's talk on : **akshaybagai.netlify.app**
+- 🦜 Have an Idea regarding project, Let's talk on : **https://akshaybagai.netlify.app/**
 
 - 🚀 All my contributions on Github are genuine. 🫡
 
