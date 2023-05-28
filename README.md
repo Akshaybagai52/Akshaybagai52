@@ -55,8 +55,8 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhayashankar&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="abhayashankar" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshaybagai52&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="akshaybagai52" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhayashankar&show_icons=true&locale=en&theme=tokyonight" alt="abhayashankar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshaybagai52&show_icons=true&locale=en&theme=tokyonight" alt="akshaybagai52" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhayashankar&&theme=tokyonight" alt="abhayashankar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaybagai52&&theme=tokyonight" alt="akshaybagai52" /></p>
