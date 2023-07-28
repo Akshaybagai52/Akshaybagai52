@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Freelance Projects**
 
-- 💬 Ask me about **Html, Css , Javascript, React, Prompt Engineering, Nodejs, Express, Motivations**
+- 💬 Ask me about **Html, CSS , Javascript, TypeScript, React, Prompt Engineering, Nodejs, Express, MongoDB.**
 
 - 📔 Contributing to Open source as much as I can. 
 
