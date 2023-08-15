@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akshay Bagai</h1>
+<h1 align="center">Hi 👋, I'm Akshay Bagai</h1> 
 <h3 align="center">I am a Professional Frontend Developer 🧑‍💻, a Web , Prompt Engineer and all-sports-fan ⛹️‍♂️.</h3>
 <div style={{display: "flex" , alignItems: "center", justifyContent: "center", width: "100%"}}>
   <img align="center" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
