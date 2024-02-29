@@ -14,14 +14,6 @@
 
 - 📫 How to reach me **akshaybagai52@gmail.com**
 
-- 🔗 Connect with me on Linkedin :  **https://www.linkedin.com/in/akshay-bagai52/**
-
-- 🦜 Have an Idea regarding project, Let's talk on : **https://akshaybagai.netlify.app/**
-
-- 🚀 All my contributions on Github are genuine. 🫡
-
-- ⚡ Fun fact **I am pretty sure I can beat you at 3/5 sports you choose..😁😁😁**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/akshay-bagai52/" target="blank">
