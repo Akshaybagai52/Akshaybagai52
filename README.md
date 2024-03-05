@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshay Bagai</h1> 
-<h3 align="center">I am a Professional Frontend Developer 🧑‍💻, a Backend , Prompt Engineer and all-sports-fan ⛹️‍♂️.</h3>
+<h3 align="center">I am a Professional Full Stack Developer 🧑‍💻, Prompt Engineer and all-sports-fan ⛹️‍♂️.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaybagai52&label=Profile%20views&color=0e75b6&style=flat" alt="akshaybagai" /> </p>
