@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaybagai52&label=Profile%20views&color=0e75b6&style=flat" alt="akshaybagai" /> </p>
 
-- 🌱 I’m currently adding **Nextjs** to my arsenal , what are you adding to yours?
+- 🌱 I’m currently adding **Devops** to my arsenal , what are you adding to yours?
 
 - 👯 I’m looking to collaborate on **Freelance Projects**
 
